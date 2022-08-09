@@ -8,7 +8,7 @@
     da = Hold til højre.
     de = Halten Sie sich rechts.
     el = Μείνετε δεξιά.
-    es = Mantente a la derecha.
+    es = Manténgase a la derecha.
     eu = Mantendu eskuinera.
     fa = به راست برانید.
     fi = Pysy oikealla.
@@ -82,7 +82,7 @@
     da = Skarpt til højre.
     de = Scharf rechts.
     el = Απότομα δεξιά.
-    es = Gire bruscamente a la derecha.
+    es = Gire fuerte a la derecha.
     eu = Eman bira itxia eskuinera.
     fa = منتها الیه سمت راست.
     fi = Jyrkkä oikea.
@@ -119,7 +119,7 @@
     da = Kør ind i rundkørslen.
     de = Fahren Sie in den Kreisverkehr ein.
     el = Μπείτε στην κυκλική διασταύρωση.
-    es = Entre a la rotonda.
+    es = Entre en la rotonda.
     eu = Sartu biribilgunera.
     fa = به میدان وارد شوید.
     fi = Aja liikenneympyrään.
@@ -193,7 +193,7 @@
     da = Hold til venstre.
     de = Halten Sie sich links.
     el = Μείνετε αριστερά.
-    es = Mantente a la izquierda.
+    es = Manténgase a la izquierda.
     eu = Mantendu ezkerrean.
     fa = به چپ برانید.
     fi = Pysy vasemmalla.
@@ -267,7 +267,7 @@
     da = Skarpt til venstre.
     de = Scharf links.
     el = Απότομα αριστερά.
-    es = Gire bruscamente a la izquierda.
+    es = Gire fuerte a la izquierda.
     eu = Eman bira itxia ezkerrera.
     fa = منتها الیه سمت چپ.
     fi = Jyrkkä vasen.
@@ -378,7 +378,7 @@
     da = Afkørsel.
     de = Nehmen Sie die Ausfahrt.
     el = Εξοδος.
-    es = Salida.
+    es = Tome la salida.
     eu = Irteera.
     fa = خروج.
     fi = Poistu.
@@ -2376,7 +2376,7 @@
     da = Kamera foran dig
     de = Blitzer voraus
     el = Κάμερα παρακάτω
-    es = Cámara adelante
+    es = Control de velocidad
     eu = Kamera aurrera
     es-MX = Cámara próxima
     fa = به دوربین نزدیک می شوید
