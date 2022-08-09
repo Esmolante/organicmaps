@@ -238,6 +238,8 @@ void Processor::SetInputLocale(string const & locale)
 
 void Processor::SetQuery(string const & query, bool categorialRequest /* = false */)
 {
+  LOG(LDEBUG, ("query:", query, "isCategorial:", categorialRequest));
+
   m_query = query;
   m_tokens.clear();
   m_prefix.clear();
