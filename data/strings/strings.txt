@@ -205,7 +205,7 @@
     da = Der skete en fejl ved download, tryk for at prøve igen.
     de = Herunterladen fehlgeschlagen. Antippen für einen neuen Versuch.
     el = Η λήψη απέτυχε. Αγγίξτε για να προσπαθήσετε ξανά.
-    es = Error durante la descarga, iniciar otra vez
+    es = La descarga ha fallado. Reiniciarla.
     eu = Errore bat gertatu da deskargatzean, hasi berriro
     fa = دانلود ناموفق بود . برای تلاش مجدد لمس کنید
     fi = Lataus epäonnistui, yritä uudelleen koskettamalla
@@ -390,7 +390,7 @@
     da = Mil
     de = Meilen
     el = Μίλια
-    es = Milla
+    es = Millas
     eu = Milia
     fa = مایل
     fi = Mailit
@@ -738,7 +738,7 @@
     da = Download mislykket
     de = Herunterladen fehlgeschlagen
     el = Η λήψη απέτυχε
-    es = Error durante la descarga
+    es = La descarga ha fallado
     eu = Errore bat deskargatzean
     fa = دانلود با شکست مواجه شد
     fi = Lataus epäonnistui
@@ -929,7 +929,7 @@
     da = En hardware accelereret OpenGL er påkrævet. Din enhed er desværre ikke understøttet.
     de = Das Programm benötigt OpenGL, um zu funktionieren. Leider wird Ihr Gerät nicht unterstützt.
     el = Η εφαρμογή απαιτεί OpenGL με επιτάχυνση υλικού. Δυστυχώς, η συσκευή σας δεν το υποστηρίζει.
-    es = La aplicación requiere OpenGL acelerado por hardware. Lamentablemente, su dispositivo no es compatible.
+    es = El programa requiere OpenGL acelerado por hardware. Lamentablemente, su dispositivo no es compatible.
     eu = Aplikazioak hardware-azeleratutako OpenGL behar du. Zoritxarrez, zure gailua ez da onartzen.
     fa = نیازمند است. متاسفانه دستگاه شما از ان پشتیبانی نمی کندOpenGLبرنامه برای اجرا به
     fi = Laitteistokiihdytetty OpenGL vaaditaan. Valitettavasti laitteesi ei ole tuettu.
@@ -1005,7 +1005,7 @@
     da = Frakobl venligst USB-kabel eller indsæt et memory kort for at bruge Organic Maps
     de = Bitte USB-Kabel entfernen oder Speicherkarte einsetzen, um Organic Maps zu verwenden
     el = Αποσυνδέστε το καλώδιο USB ή τοποθετήστε την κάρτα μνήμης για να χρησιμοποιήσετε το Organic Maps
-    es = Por favor desconectar el cable USB o insertar la memoria SD para usar Organic Maps
+    es = Por favor, desconecte el cable USB o inserte una memoria SD para usar Organic Maps
     eu = Mesedez, deskonektatu USB kablea edo sartu SD memoria Organic Maps erabiltzeko
     fi = Irrota USB-kaapeli tai syötä muistikortti käyttääksesi Organic Maps -sovellusta
     fr = Veuillez débrancher le câble USB ou insérer la carte SD pour utiliser Organic Maps
@@ -1043,7 +1043,7 @@
     da = Frigør venligst plads på dit SD-kort/USB lager først for at bruge denne app
     de = Bitte zuerst Speicherplatz auf SD-Karte/USB-Speicher freigeben, um die Anwendung zu nutzen
     el = Ελευθερώσετε  χώρο αποθήκευσης στην SD κάρτα/USB πρώτα προκειμένου να χρησιμοποιήσετε την εφαρμογή
-    es = Por favor liberar espacio en la memoria SD/almacenamiento USB para usar la aplicación
+    es = Por favor, libere espacio de la memoria SD/almacenamiento USB para usar la aplicación
     eu = Mesedez, egin lekua SD memorian/USB biltegian aplikazioa erabiltzeko
     fa = لطفا مقداری از فضای ذخیره سازی را آزاد نمایید
     fi = Vapauta ensin tilaa SD-kortilta/USB-massamuistilta käyttääksesi sovellusta
@@ -1081,7 +1081,7 @@
     da = Før du starter, så lad os downloade det generelle verdenskort til din enhed.\nIt behøver %@ af data.
     de = Bevor Sie starten, laden Sie die allgemeine Weltkarte auf Ihr Gerät herunter.\nEs werden %@ Speicherplatz benötigt.
     el = Πριν ξεκινήσετε τη χρήση της εφαρμογής, επιτρέψτε μας να κατεβάσουμε το γενικό παγκόσμιο χάρτη στη συσκευή σας. \nIt θα χρησιμοποιήσει %@ αποθηκευτικού χώρου.
-    es = Antes de comenzar, permite que descarguemos en tu dispositivo un mapamundi general.\nSe requieren %@ de datos.
+    es = Antes de comenzar, permita que descarguemos en su dispositivo un mapamundi.\nSe requieren %@ de datos.
     eu = Hasi baino lehen, utzi mundu-mapa orokor bat zure gailura deskargatzeko.\nDatuen %@ beharrezkoa da.
     fa = قبل از استفاده از اپلیکیشن, اجازه دهید تا ما نقشه جهانی را بر روی موبایل شما دانلود کنیم.\nمقدار %@ از حافظه شما اشغال می شود.
     fi = Ennen aloitusta laitteelle tulee ladata yleinen maailmankartta.\nSe tarvitsee yhteensä %@ dataa.
@@ -1157,7 +1157,7 @@
     da = Downloader %@. Du kan nu\nfortsætte til kortet.
     de = %@ wird heruntergeladen. Sie können jetzt\nzur Karte weitergehen.
     el = Λήψη %@. Μπορείτε τώρα να\nμεταβείτε στο χάρτη.
-    es = Descargando %@. Puede ahora\nproceder al mapa
+    es = Descargando %@. Puede ahora\nacceder al mapa
     eu = %@ deskargatzen. Orain mapara\n joan zaitezke.
     fa = درحال دانلود %@. شما اکنون می توانید\nبه نقشه بروید.
     fi = Ladataan %@. Voit nyt jatkaa kartalle.
@@ -1389,7 +1389,7 @@
     da = Tilføj nyt sæt
     de = Neue Gruppe hinzufügen
     el = Προσθέστε νέο σύνολο
-    es = Agregar un grupo nuevo
+    es = Agregar un nuevo grupo 
     eu = Gehitu talde berri bat
     fa = اضافه کردن مجموعه جدید
     fi = Lisää uusi valikoima
@@ -1889,6 +1889,7 @@
     ar = وحدة التخزين الداخلية الخاصة
     be = Унутранае прыватнае сховішча
     de = Interner persönlicher Speicher
+    es = Almacenamiento interno privado
     fr = Stockage interne privé
     pt-BR = Armazenamento interno privado
     ru = Внутренний скрытый накопитель
@@ -1902,6 +1903,7 @@
     ar = وحدة التخزين الداخلية المشتركة
     be = Унутранае абагуленае сховішча
     de = Interner gemeinsamer Speicher
+    es = Almacenamiento interno compartido
     fr = Stockage interne partagé
     pt-BR = Armazenamento interno compartilhado
     ru = Внутренний общий накопитель
@@ -1915,6 +1917,7 @@
     ar = بطاقة الذاكرة
     be = SD-карта
     de = SD-Karte
+    es = Tarjeta SD
     fr = Carte SD
     pt-BR = Cartão SD
     ru = SD-карта
@@ -1928,6 +1931,7 @@
     ar = وحدة تخزين خارجية مشتركة
     be = Знешняе абагульнае сховішча
     de = Externer gemeinsamer Speicher
+    es = Almacenamiento externo compartido
     fr = Stockage externe partagé
     pt-BR = Armazenamento externo compartilhado
     ru = Внешний общий накопитель
@@ -1941,6 +1945,7 @@
     ar = %1$@ فارغ من %2$@
     be = %1$@ вольна з %2$@
     de = %1$@ frei von %2$@
+    es = %1$@ libres de %2$@
     fr = %1$@ libres sur %2$@
     pt-BR = %1$@ livre de %2$@
     ru = %1$@ свободно из %2$@
@@ -1958,7 +1963,7 @@
     da = Flyt kort?
     de = Karten verschieben?
     el = Να γίνει μετακίνηση χαρτών;
-    es = ¿Mover mapas?
+    es = ¿Mover los mapas?
     eu = Mapak mugitu?
     fa = ایا نقشه ها جابه جا شود؟
     fi = Siirrä karttoja?
@@ -1992,6 +1997,7 @@
     en = Error moving map files
     ar = فشلت عملية نقل ملفات الخرائط
     de = Fehler beim Verschieben der Karten
+    en = Fallo al mover los mapas
     fr = Erreur lors du déplacement des cartes
     pt-BR = Erro ao mover arquivos de mapas
     ru = Ошибка перемещения файлов карт
@@ -2087,7 +2093,7 @@
     da = Vælg mellem mil eller kilometer
     de = Wählen Sie zwischen Kilometern und Meilen
     el = Επιλέξετε ανάμεσα σε μίλια και χιλιόμετρα
-    es = Elija entre millas y kilómetros
+    es = Elija entre kilómetros y millas
     eu = Aukeratu mila eta kilometroen artean
     fa = بین مایل و کیلومتر انتخاب کنید
     fi = Valitse mailit tai kilometrit
@@ -3003,7 +3009,7 @@
     da = Organic Maps bogmærker er blevet delt med dig
     de = Organic Maps-Lesezeichen mit Ihnen geteilt
     el = Κοινοποιήθηκαν αγαπημένα Organic Maps με σας
-    es = Marcapáginas de Organic Maps compartidos contigo
+    es = Marcadores de Organic Maps compartidos contigo
     eu = Organic Maps markatzaileak zurekin partekatu dira
     fi = Jaetut Organic Maps-kirjanmerkit
     fr = Signets Organic Maps partagés
@@ -3036,7 +3042,7 @@
     ar = مرحباً! ْ\n\n تم إرفاق إشاراتي المرجعية من تطبيق Organic Maps. الرجاء فتحهم إذا لديك تطبيق Organic Maps مثبتاً. أو، إذا لم يكن مثبتاً، قم بتنزيل التطبيق لنظام iOS أو أندرويد من خلال الضغط على هذا الرابط: https://omaps.app/get?kmz \n\nاستمتع بالسفر مع Organic Maps!
     be = Вітаю!\n\nУ далучаным файле мае закладкі з дататка Organic Maps. Калі ласка, адчыніце іх калі ў вас усталяваны Organic Maps. Калі не, спампуйце дадатак для вашай прылады iOS альбо Andriod па спасылцы: https://omaps.app/get?kmz\n\nПрыемных падарожжаў з Organic Maps!
     de = Hallo!\n\nIm Anhang sind meine Lesezeichen der Organic Maps App. Sie können sie mit Organic Maps öffnen. Wenn Sie die App nicht installiert haben, können Sie sie von https://omaps.app/get?kmz für iOS oder Android herunterladen.\n\nViel Spaß beim Reisen mit Organic Maps!
-    es = Hola!\n\Adjunto mis marcadores de la aplicación Organic Maps. Por favor, ábrelos si tienes instalado Organic Maps. O, si no lo tienes, descarga la aplicación para tu dispositivo iOS o Android siguiendo este link: https://omaps.app/get?kmz\n¡Disfruta viajando con Organic Maps!
+    es = Hola!\n\Adjunto mis marcadores del programa Organic Maps. Por favor, ábrelos si tienes instalado Organic Maps. O, si no lo tienes, descarga el programa para tu dispositivo iOS o Android siguiendo este enlace: https://omaps.app/get?kmz\n¡Disfruta viajando con Organic Maps!
     eu = Kaixo!\nNire markatzaileak Mapak organikoak aplikaziotik erantsi ditut. Mesedez, ireki itzazu Organic Maps instalatuta baduzu. Edo, ez baduzu, deskargatu aplikazioa zure iOS edo Android gailurako esteka hau jarraituz: https://omaps.app/get?kmz\n\nGozatu bidaiatzen Organic Maps-ekin!
     fr = Bonjour !\n\nVous trouverez ci-joint mes signets de l'appli Organic Maps. Veuillez les ouvrir si vous avez installé Organic Maps. Si vous ne l'avez pas, téléchargez l'application pour votre appareil iOS ou Android en suivant ce lien : https://omaps.app/get?kmz\n\nBon voyage avec Organic Maps!
     it = Ciao!\n\nIn allegato ci sono i miei luoghi preferiti. Aprili se hai installato Organic Maps. Oppure, se non ce l'hai, scarica l'app per iOS o Android seguendo questo link: https://omaps.app/\n\nDivertiti a viaggiare con Organic Maps!
@@ -3061,7 +3067,7 @@
     da = Indlæser Bogmærker
     de = Lesezeichen werden geladen
     el = Φόρτωση αγαπημένων
-    es = Cargando favoritos
+    es = Cargando marcadores
     eu = Markatzaileak kargatzen
     fa = در حال بارگیری نشانه ها
     fi = Ladataan kirjanmerkkejä
@@ -3100,7 +3106,7 @@
     da = Bogmærkerne er indlæst! Du kan nu finde dem på kortet eller i Bogmærke Manager sektionen.
     de = Lesezeichen erfolgreich geladen! Sie können diese nun auf Ihrer Karte oder im Lesezeichen-Manager anzeigen.
     el = Τα αγαπημένα φορτώθηκαν με επιτυχία! Μπορείτε να τα βρείτε στο χάρτη ή στην οθόνη Διαχείριση αγαπημένων.
-    es = ¡Los favoritos se han cargado con éxito! Puedes encontrarlos en el mapa o en la pantalla de Gestión de favoritos.
+    es = ¡Los marcadores se han cargado con éxito! Puedes encontrarlos en el mapa o en la pantalla de Gestión de marcadores.
     eu = Gogokoak behar bezala kargatu dira! Mapan edo kudeatu gogokoak pantailan aurki ditzakezu.
     fa = نشانه ها با موفقیت بارگذاری شد!شما می توانید ان ها را در نقشه یا بخش مدیریت نشانه ها بیابید
     fi = Kirjanmerkkien lataaminen onnistui! Löydät ne joko kartalta tai kirjanmerkkien hallinnasta.
@@ -3139,7 +3145,7 @@
     da = Bogmærkerne kunne ikke indlæses. Fil kan være skadet eller defekte.
     de = Laden der Lesezeichen fehlgeschlagen. Die Datei könnte beschädigt oder defekt sein.
     el = Η μεταφόρτωση των αγαπημένων απέτυχε. Το αρχείο μπορεί να είναι κατεστραμμένο ή ελαττωματικό.
-    es = La carga de favoritos ha fallado. El archivo puede estar corrupto o ser defectuoso.
+    es = La carga de marcadores ha fallado. El archivo puede estar corrupto o ser defectuoso.
     eu = Ezin izan da gogokoak kargatu. Fitxategia hondatuta edo akastuna izan daiteke.
     fa = بارگذاری نشانه ها با شکست مواجح شد.ممکن است فایل اسیب دیده یا معیوب باشد
     fi = Kirjanmerkkien lähetys epäonnistui. Tiedosto saattaa olla vioittunut.
@@ -3294,7 +3300,7 @@
     da = Download af kort over land er i gang nu.
     de = Die Karte wird heruntergeladen.
     el = Λήψη χάρτη σε εξέλιξη.
-    es = La descarga del mapa está en curso ahora.
+    es = El mapa se está descargando.
     eu = Mapak deskargatzen ari dira.
     fa = دانلود نقشه اکنون در حال انجام است
     fi = Maata ladataan parhaillaan.
@@ -3333,7 +3339,7 @@
     da = Hey, tjek min nuværende lokation ud på Organic Maps! %1$@ or %2$@. Har du ikke offline kort? Download her: https://omaps.app/get
     de = Hey, sieh dir meinen aktuellen Standort auf Organic Maps an! %1$@ oder %2$@ Keine Offline-Karten installiert? Hier herunterladen: https://omaps.app/get
     el = Έλεγξε την τρέχουσα τοποθεσία μου στο Organic Maps! %1$@ ή %2$@ στην περίπτωση που δεν έχεις εγκαταστήσει χάρτες εκτός σύνδεσης, μπορείς να τους κατεβάσεις εδώ: https://omaps.app/get
-    es = Mira mi ubicación actual en Organic Maps!. %1$@ o %2$@ ¿No tienes mapas offline? Descarga aquí: https://omaps.app/get
+    es = Mira mi ubicación actual en Organic Maps. %1$@ o %2$@ ¿No tienes mapas offline? Descarga aquí: https://omaps.app/get
     eu = Ikusi nire uneko kokapena Organic Maps-en! %1$@ edo %2$@ Ez al duzu lineaz kanpoko maparik? Deskargatu hemen: https://omaps.app/get
     fi = Hei, katso sijaintini Organic Maps-sovelluksessa! %1$@ tai %2$@ Eikö sinulla ole vielä offline-karttoja? Lataa ne täältä: https://omaps.app/get
     fr = Hé, regarde ma position actuelle sur Organic Maps ! %1$@ ou %2$@. Les cartes hors ligne ne sont pas installées ? Les télécharger ici : https://omaps.app/get
@@ -3409,7 +3415,7 @@
     da = Hey, tjek min nuværende lokation ud på Organic Maps kortet!
     de = Hey, sieh dir meinen aktuellen Standort auf der Organic Maps-Karte an
     el = Έλεγξε την τρέχουσα τοποθεσία μου στο χάρτη Organic Maps!
-    es = Mira mi ubicación actual en el mapa en Organic Maps!
+    es = Mira mi ubicación actual en el mapa de Organic Maps!
     eu = Ikusi nire uneko kokapena mapan Organic Maps-en!
     fi = Hei, kurkkaa tämänhetkinen sijaintini Organic Maps:n kartalla!
     fr = Hé, regarde ma position actuelle sur la carte Organic Maps !
@@ -4866,7 +4872,7 @@
     da = Hjemmeside
     de = Webseite
     el = Ιστότοπος
-    es = Sitio web
+    es = P web
     eu = Webgunea
     fa = وب سایت
     fi = Kotisivut
@@ -5031,7 +5037,7 @@
     da = Bedøm appen
     de = Bewerten Sie die App
     el = Βαθμολογήστε την εφαρμογή
-    es = Valora la aplicación
+    es = Valora el programa
     eu = Baloratu aplikazioa
     fa = امتیاز به این اپلیکیشن
     fi = Arvioi sovellus
@@ -5227,7 +5233,7 @@
     da = Rapportér fejl
     de = Fehler melden
     el = Αναφορά σφάλματος
-    es = Hay un error
+    es = Comunicar un error
     eu = Errore bat dago
     fa = گزارش خطا
     fi = Ilmoita virheestä
@@ -5798,7 +5804,7 @@
     da = Mislykkedes
     de = Fehlgeschlagen
     el = Απέτυχε
-    es = Fallo
+    es = Ha fallado
     eu = Porrota
     fa = ناموفق
     fi = Epäonnistunut
@@ -5837,7 +5843,7 @@
     da = For at slette kortet skal du stoppe navigeringen.
     de = Zum Löschen der Karte bitte Navigation unterbrechen.
     el = Για να διαγράψετε το χάρτη, σταματήστε την πλοήγηση.
-    es = Para eliminar el mapa, por favor, detén la navegación.
+    es = Para eliminar el mapa, por favor, detenga la navegación.
     eu = Mapa kentzeko, utzi nabigazioa.
     fa = برای حذف نقشه لطفا مسیر یابی را متوقف کنید
     fi = Pysäytä navigointi poistaaksesi kartan.
@@ -6221,7 +6227,7 @@
     da = Ved at oprette en rute kræver det, at alle kort fra din placering til destination er downloadede og opdaterede.
     de = Zum Erstellen einer Route müssen alle Karten von Ihrem Standort bis zum Ziel heruntergeladen und aktualisiert worden sein.
     el = Για να δημιουργήσετε μια διαδρομή, πρέπει να κατεβάσετε και να ενημερώσετε όλους τους χάρτες από τη θέση σας στον προορισμό σας.
-    es = Para crear una ruta es necesario descargar y actualizar todos los mapas de la ubicación de destino.
+    es = Para crear una ruta es necesario descargar y actualizar todos los mapas entre su posición y su destino.
     eu = Ibilbide bat sortzeko beharrezkoa da helmugako kokapenaren mapa guztiak deskargatu eta eguneratzea.
     fa = به منظور ایجاد مسیر ما نیاز داریم تا تمامی نقشه های شما از مبدا تا مقصد را به روز رسانی کنیم.
     fi = Reitin luominen vaatii karttojen lataamisen ja päivityksen oman sijaintisi ja kohteeen väliltä.
@@ -7147,7 +7153,7 @@
     da = — Vejforhold, færdselsregler og skiltning skal prioriteres højere end anvisningerne fra navigationsappen;
     de = – Straßenverhältnisse, die Verkehrsordnung und Straßenschilder haben stets Vorrang vor Navigationsanweisungen;
     el = — Οι οδικές συνθήκες, ο κώδικας οδικής κυκλοφορίας και οι σημάνσεις στο δρόμο έχουν πάντα μεγαλύτερη προτεραιότητα από τις συμβουλές πλοήγησης,
-    es = — Las condiciones de la ruta, las reglas de tráfico y las señales de carretera siempre tienen prioridad sobre las sugerencias de navegación;
+    es = — Las condiciones de la ruta, las normas de tráfico y las señales de carretera siempre tienen prioridad sobre las sugerencias de navegación;
     eu = — Ibilbideen baldintzek, zirkulazio arauek eta bide seinaleek lehentasuna dute beti nabigazio-iradokizunen gainetik;
     fa = —شرایط جاده قوانین راهنمایی و رانندگی و علائم جاده همیشه بر نکات مسیریابی اولویت دارند;
     fi = — Tien kunto, liikennesäännöt ja tiekyltit ovat aina tärkeämpiä kuin navigointilaitteen ohjeet;
@@ -7177,7 +7183,7 @@
 
   [dialog_routing_disclaimer_precision]
     tags = android,ios
-    en = — The map might be inaccurate, and the suggested route might not always be the most optimal way to reach the destination;
+    en = — The map might be inaccurate, and the suggested route might not always be the optimal way to reach the destination;
     ar = —  قد تكون الخريطة غير دقيقة وقد لا يكون المسار المقترح هو المسار الأمثل دائمًا للوصول إلى الوجهة.;
     be = — Мапа можа быць недакладнай, а прапанаваны маршрут не заўжды найлепшым;
     bg = - Картата може да е неточна, а предложеният маршрут невинаги е най-оптималният начин за достигане до дестинацията;
@@ -7185,7 +7191,7 @@
     da = — Kortet kan være unøjagtigt, og den foreslåede rute er ikke nødvendigvis altid den bedste måde at nå destinationen på;
     de = – Die Karte kann ungenau sein, und die vorgeschlagene Route ist möglicherweise nicht der optimale Weg, um das Ziel zu erreichen;
     el = — Ο Χάρτης μπορεί να είναι ανακριβής, και η προτεινόμενη διαδρομή μπορεί να μην είναι πάντα ο βέλτιστος τρόπος να φτάσετε στον προορισμό,
-    es = — El mapa puede ser impreciso y sugerir una ruta que no siempre puede ser el mejor camino para llegar al destino;
+    es = — El mapa puede ser impreciso y sugerir una ruta que quiz el mejor camino para llegar al destino;
     eu = — Mapa zehaztugabea izan daiteke eta helmugara iristeko biderik onena ez den ibilbide bat iradoki dezake;
     fa = —نقشه ممکن است اشتباه باشد و مسیر پیشنهادی همیشه بهترین مسیر برای رسید به مقصد شما نباشد;
     fi = — Kartta saattaa olla epätarkka, joten ehdotettu reitti ei välttämättä ole paras mahdollinen tapa päästä määränpäähän;
@@ -7261,7 +7267,7 @@
     da = — Vær forsigtig med ruter i grænseområder: de ruter, vores app har skabt, kan nogle gange krydse landegrænser på uautoriserede steder;
     de = — Bitte seien Sie vorsichtig bei Routen in Grenzgebieten: die Routen, die unsere App erstellt, können manchmal Landesgrenzen in gesperrten Gebieten überschreiten;
     el = — Προσέχετε τις διαδρομές στις παραμεθόριες ζώνες: οι διαδρομές που δημιουργούνται από την εφαρμογή μας μπορεί μερικές φορές να διαπερνούν τα εθνικά σύνορα σε απαγορευμένες περιοχές.
-    es = — Actúe con cautela en las rutas con zonas fronterizas: las rutas creadas por nuestra aplicación en ocasiones pueden atravesar las fronteras de países en lugares no autorizados;
+    es = — Actúe con cautela en las rutas con zonas fronterizas: las rutas creadas por este programa en ocasiones pueden atravesar las fronteras de países por lugares no autorizados.
     eu = — Kontuz ibili muga-eremuak dituzten ibilbideetan: gure aplikazioak sortutako ibilbideek batzuetan herrialdeen mugak zeharkatu ditzakete baimendu gabeko tokietan;
     fa = —در مسیرهایی که از مناطق مرزی میگذرد احتیاط کنید:مسیر هایی که بوسیله اپلیکیشن ما ایجاد می شود گاهی اوقات ممکن است مرز های کشور ها را رد کند که این در بعضی مناطق غیر مجاز است.
     fi = — Ole varovainen reittien suhteen raja-alueilla: sovelluksemme luomat reitit voivat toisinaan ylittää maiden rajoja luvattomissa paikoissa;
@@ -7298,7 +7304,7 @@
     da = Vær altid særligt opmærksom og årvågen, når du sidder bag rattet!
     de = Bitte fahren Sie aufmerksam und sicher!
     el = Να είστε πάντα σε εγρήγορση και να οδηγείτε με ασφάλεια στους δρόμους!
-    es = ¡Manténgase alerta y seguro en las rutas!
+    es = ¡Manténgase alerta y conduzca con precauci!
     eu = Egon adi eta seguru errepideetan!
     fa = لطفا هوشیار و ایمن در جاده بمانید!
     fi = Pysy tarkkana ja aja turvallisesti!
@@ -7336,7 +7342,7 @@
     da = Tjek GPS-signalet
     de = GPS-Signal prüfen
     el = Ελέγξτε το σήμα GPS
-    es = Verificar la señal del GPS
+    es = Verificar la señal GPS
     eu = Egiaztatu GPS seinalea
     fa = سیگنال GPS را چک کنید
     fi = Tarkista GPS-signaali
@@ -8056,7 +8062,7 @@
     da = Det lykkedes ikke at planlægge en rute. Der opstod en fejl i systemet.
     de = Route kann wegen eines Anwendungsfehlers nicht erstellt werden.
     el = Δεν είναι δυνατή η δημιουργία διαδρομής εξαιτίας σφάλματος εφαρμογής.
-    es = No se pudo crear la ruta debido a un error en la aplicación.
+    es = No se pudo crear la ruta debido a un error del programa.
     eu = Ibilbidea ezin izan da sortu aplikazioaren errore baten ondorioz.
     fa = ناتوان در ایجاد مسیر به علت خطای برنامه.
     fi = Reittiä ei voi luoda sovellusvirheen vuoksi.
@@ -8132,7 +8138,7 @@
     da = Ikke nu
     de = Nicht jetzt
     el = Όχι τώρα
-    es = No ahora
+    es = Ahora no
     eu = Orain ez
     fa = اکنون خیر
     fi = Ei nyt
