@@ -7374,7 +7374,7 @@
     da = Det lykkedes ikke at planlægge en rute. GPS-koordinaterne kunne ikke identificeres korrekt.
     de = Route kann nicht erstellt werden. Aktuelle GPS-Koordinaten konnten nicht ermittelt werden.
     el = Δεν είναι δυνατή η δημιουργία διαδρομής. Οι τρέχουσες συντεταγμένες GPS δεν μπορούν να προσδιοριστούν.
-    es = No se puede crear la ruta. No se pudieron identificar las coordenadas actuales del GPS.
+    es = No se puede crear la ruta ya que no se pudo establecer la posición actual.
     eu = Ezin da ibilbidea sortu. Ezin izan dira uneko GPS koordenatuak identifikatu.
     fa = ناتوان از ایجاد مسیر.موقعیت مکانی شما شناسایی نشد
     fi = Reittiä ei voi luoda. Tämänhetkisiä GPS-koordinaatteja ei löydy.
@@ -7412,7 +7412,7 @@
     da = Tjek venligst dit GPS-signal. Din placering registreres mere præcist, hvis wi-fi er slået til.
     de = Bitte prüfen Sie Ihr GPS-Signal. WLAN verbessert Ihre Standortgenauigkeit.
     el = Ελέγξτε το σήμα GPS. Η ενεργοποίηση του Wi-Fi θα βελτιώσει την ακρίβεια της τοποθεσίας σας.
-    es = Verifique la señal del GPS. Activar Wi-Fi mejorará la precisión de su ubicación.
+    es = Verifique la señal GPS. Activar Wi-Fi mejorará la precisión de su ubicación.
     eu = Egiaztatu GPS seinalea. Wi-Fi konexioa aktibatuz gero, zure kokapenaren zehaztasuna hobetuko da.
     fa = لطفا سیگنال GPS موبایتان راچک کنید.و WiFi موبایلتان را جهت دقت بیشتر در موقعیت یابی فعال کنید.
     fi = Tarkista GPS-signaali. Wi-Fi-signaalin käyttöönotto parantaa sijainnin tarkkuutta.
@@ -7488,7 +7488,7 @@
     da = Det lykkedes ikke at finde de aktuelle GPS-koordinater. Slå lokaliseringstjenester til for at beregne en rute.
     de = Aktuelle GPS-Koordinaten können nicht ermittelt werden. Aktivieren Sie Ortungsdienste, um die Route zu berechnen.
     el = Δεν είναι δυνατός ο εντοπισμός των τρεχουσών συντεταγμένων GPS. Ενεργοποιήστε τις υπηρεσίες εντοπισμού τοποθεσίας για τον υπολογισμό της διαδρομής.
-    es = No se pueden encontrar las coordenadas del GPS. Active los servicios de ubicación para calcular la ruta.
+    es = No se puede calcular la posici. Active los servicios de ubicación para calcular la ruta.
     eu = Ezin dira GPS koordenatuak aurkitu. Aktibatu kokapen zerbitzuak ibilbidea kalkulatzeko.
     fa = ناتوان از مشخص کردن موقعیت مکانی شما.لطفا سرویس موقعیت مکانی خود را فعال کنید.
     fi = Tämänhetkisiä GPS-koordinaatteja ei löydy. Ota sijaintipalvelut käyttöön reitin laskemista varten.
@@ -7564,7 +7564,7 @@
     da = Download og opdatér alle kort og ruteoplysninger for at beregne en rute.
     de = Laden Sie alle Karten- und Routeninformationen für den geplanten Weg herunter und aktualisieren Sie sie, um die Route zu berechnen.
     el = Κατεβάσετε και να ενημερώσετε όλους τους χάρτες και τις πληροφορίες δρομολόγησης για όλη την απόσταση της προβαλλόμενης διαδρομής για τον υπολογισμό της.
-    es = Descargue y actualice toda la información de mapas y rutas junto con el trayecto proyectado para calcular la ruta.
+    es = Descargue y actualice toda la información de mapas y rutas a lo largo del trayecto proyectado para calcular la ruta.
     eu = Deskargatu eta eguneratu mapa eta ibilbideen informazio guztia aurreikusitako ibilbidearekin batera ibilbidea kalkulatzeko.
     fi = Lataa ja päivitä kaikki suunnitellun reitin kartta- ja reititystiedot, jotta reitin voi laskea.
     fr = Téléchargez et mettez à jour les informations de carte et d'itinéraire de votre trajet pour calculer l'itinéraire.
@@ -7601,7 +7601,7 @@
     da = Der blev ikke fundet en rute
     de = Route kann nicht ermittelt werden
     el = Δε μπορεί να εντοπιστεί η διαδρομή
-    es = Imposible de encontrar una ruta
+    es = Imposible calcular una ruta
     eu = Ezin da ibilbiderik aurkitu
     fa = ناتوان در تعیین مسیر
     fi = Reitin paikannus ei onnistu
@@ -8056,7 +8056,7 @@
     da = Det lykkedes ikke at planlægge en rute. Der opstod en fejl i systemet.
     de = Route kann wegen eines Anwendungsfehlers nicht erstellt werden.
     el = Δεν είναι δυνατή η δημιουργία διαδρομής εξαιτίας σφάλματος εφαρμογής.
-    es = No se pudo crear la ruta debido a un error en la aplicación.
+    es = No se pudo crear la ruta debido a un error del programa.
     eu = Ibilbidea ezin izan da sortu aplikazioaren errore baten ondorioz.
     fa = ناتوان در ایجاد مسیر به علت خطای برنامه.
     fi = Reittiä ei voi luoda sovellusvirheen vuoksi.
@@ -8132,7 +8132,7 @@
     da = Ikke nu
     de = Nicht jetzt
     el = Όχι τώρα
-    es = No ahora
+    es = Ahora no
     eu = Orain ez
     fa = اکنون خیر
     fi = Ei nyt
@@ -8733,7 +8733,7 @@
     da = Ryd historiksøgning
     de = Suchverlauf löschen
     el = Εκκαθάριση ιστορικού αναζήτησης
-    es = Eliminar el historial de búsqueda
+    es = Eliminar el historial de búsquedas
     eu = Ezabatu bilaketa-historia
     fa = پاک کردن سابقه جست وجو ها
     fi = Poista hakuhistoria
@@ -8975,7 +8975,7 @@
     da = Ønsker du, at vi planlægger en rute fra din nuværende placering?
     de = Soll eine Route von Ihrem aktuellen Standort aus berechnet werden?
     el = Θέλετε να σχεδιάσουμε μια διαδρομή από την τρέχουσα θέση σας;
-    es = ¿Quieres que planeemos un ruta desde tu ubicación actual?
+    es = ¿Quieres que planeemos una ruta desde tu ubicación actual?
     eu = Zure uneko kokapenetik ibilbide bat antolatzea nahi duzu?
     fa = ایا می خواهید یک مسیر را از موقعیت فعلیتان برنامه ریزی کنیم؟
     fi = Haluatko valita vaihtoehtoisen reitin?
@@ -9532,7 +9532,7 @@
     da = Du har ændret verdenskortet. Lad andre det vide! Fortæl dine venner og redigér det sammen.
     de = Sie haben die Weltkarte geändert. Behalten Sie das nicht für sich! Erzählen Sie Ihren Freunden davon und bearbeiten Sie sie zusammen.
     el = Έχετε αλλάξει τον παγκόμιο χάρτη. Μην το κρατάτε για τον εαυτό σας! Πείτε το στους φίλους σας και κάντε τις αλλαγές μαζί.
-    es = Has cambiado el mapa del mundo. No te lo guardes para ti. Díselo a tus amigos y edítenlo juntos.
+    es = Ha modificado el mapa. No se lo guardes para si. Dígaselo a sus amigos y edítenlo juntos.
     eu = Munduko mapa aldatu duzu. Ez ezazu zeuretzat gorde. Esan zure lagunei eta editatu elkarrekin.
     fa = شما نقشه جهان را تغییر دادید.این افتخار را پیش خود نگه ندارید!به دوستانتان درموردش بگویید و با یکدیگر ویرایش کنید.
     fi = Olet muuttanut maailmankarttaa. Älä piilota tätä! Kerro ystävillesi ja muokatkaa sitä yhdessä.
@@ -9606,7 +9606,7 @@
     da = Beskriv problemet i detaljer, så OpenStreetMap-fællesskabet kan løse fejlen.
     de = Bitte beschreiben Sie das Problem detailliert, damit die OpenStreetMap-Gemeinschaft den Fehler beheben kann.
     el = Περιγράψτε το πρόβλημα αναλυτικά ώστε η Κοινότητα OpenStreetMap να διορθώσει το σφάλμα.
-    es = Por favor, describe el problema en detalle para que la comunidad de OpenStreetMap pueda corregir el error.
+    es = Por favor, describa el problema en detalle para que la comunidad de OpenStreetMap pueda corregir el error.
     eu = Mesedez, deskribatu arazoa xehetasunez, OpenStreetMap komunitateak akatsa konpondu dezan.
     fa = لطفا مشکلتان را با جزئیات توضیح دهید بطوری که انجمن OSM بتوانند ان را برطرف کنند.
     fi = Kuvaile ongelmaa yksityiskohtaisesti, jotta OpenStreetMap-yhteisö voi korjata vian.
@@ -10016,7 +10016,7 @@
     da = Fridag i dag
     de = Heute geschlossen
     el = Κλειστό σήμερα
-    es = Día libre hoy
+    es = Hoy cerrado
     eu = Gaur atseden eguna
     fa = امروز تعطیل است
     fi = Suljettu tänään
@@ -10053,7 +10053,7 @@
     da = Fridag
     de = Geschlossen
     el = Κλειστό
-    es = Día libre
+    es = Cerrado
     eu = Egun librea
     fa = تعطیل است
     fi = Suljettu
@@ -10573,7 +10573,7 @@
     da = OSM-konto
     de = OSM Konto
     el = `Λογαριασμός OSM  `
-    es = Cuenta OSM
+    es = Cuenta de OSM
     eu = OSM kontua
     fa = حساب OSM
     fi = OSM-tili
@@ -11190,7 +11190,7 @@
     da = Email eller brugernavn
     de = Email oder Benutzername
     el = Email ή όνομα χρήστη
-    es = Email ó usuario
+    es = Email o usuario
     eu = Posta elektronikoa edo erabiltzailea
     fa = ایمیل یا نام کاربری
     fi = Sähköposti tai käyttäjätunnus
@@ -11259,6 +11259,7 @@
     en = Add Phone
     ar = إضافة رقم هاتف
     de = Telefon hinzufügen
+    es = Añadir tel
     fr = Ajouter un numéro de téléphone
     it = Aggiungi numero
     mr = फोन जोडा
@@ -11390,7 +11391,7 @@
     da = Opdatér kort
     de = Karten aktualisieren
     el = Ενημέρωση χαρτών
-    es = Autodescarga de mapas
+    es = Actualizar los mapas
     eu = Mapak deskargatu automatikoki
     fa = بروزرسانی نقشه ها
     fi = Päivitä kartat
